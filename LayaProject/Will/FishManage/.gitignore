@@ -1,0 +1,29 @@
+# 忽略编译生成的文件和目录
+/bin/
+/libs/
+/.laya/
+
+# 忽略项目配置文件
+/.laya/launch.json
+
+# 忽略构建产物和发布目录
+/export/
+
+# 忽略调试日志和调试临时文件
+/.laya/Log/
+/.laya/.laya_unite/
+
+# 忽略编辑器工作区文件
+/.laya/layauidesigner.max.json
+/.laya/layauidesigner.json
+
+# 忽略临时文件和缓存
+/.laya/tempproj/
+/.laya/.laya_tmp/
+/.laya/.laya_tmp_cache/
+
+# 忽略其他临时文件和目录
+/.laya/[OtherTempFolder]/
+
+# 忽略开发者自定义的临时文件和目录
+/[CustomTempFolder]/

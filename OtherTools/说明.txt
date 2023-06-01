@@ -1,0 +1,1 @@
+syncSheet 飞书导表工具 py main.py  运行  sync 同步所有表 sync {name} 同步某个表下的所有sheet页
